@@ -7,7 +7,7 @@ import ChooseFontDropdown from "./ChooseFontDropdown";
 export default function Header() {
   return (
     <header className="w-full flex max-w-[735px] justify-between items-center mx-auto mt-8 flex-row px-8 md:px-24 gap-8">
-      <p>mw.</p>
+      <p>YOUGBOY95.</p>
 
       <nav className="flex gap-2">
         <ChooseFontDropdown />
